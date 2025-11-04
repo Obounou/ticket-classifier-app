@@ -44,4 +44,4 @@ Passionné par la Data Science, le Machine Learning et les projets d’automatis
 ---
 
 ## 🌐 Démo
-👉 [Lancer l’application Streamlit](https://obounou-ticket-classifier-app.streamlit.app)
+👉 [Lancer l’application Streamlit](https://ticket-classifier-app-iirq2upuzukxaqdcrjefdw.streamlit.app/)
